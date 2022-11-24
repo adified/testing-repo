@@ -4,6 +4,8 @@
 #include <array>
 #include <math.h>
 
+//this is not and edit this is only to test my api
+
 using namespace std; 
 
 double cube(double num);        //function prototype
