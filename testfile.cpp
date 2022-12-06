@@ -3,11 +3,8 @@
 #include<iostream>
 #include <array>
 #include <math.h>
-
 //this is not and edit this is only to test my api
-
-using namespace std; 
-
+using namespace std;
 double cube(double num);        //function prototype
 
     struct rectangle{
@@ -107,7 +104,6 @@ int main(){
     //     break;
     //     }
     // printf("%p \n",b);
-
 
     // printarray(b,5);
     // pb=func(8);
