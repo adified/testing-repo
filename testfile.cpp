@@ -39,9 +39,6 @@ int * func (int n){                  //malloc array pointer creator
     return p;
 }
 
-
-
-
 void printarray (int * b,int n){            //how to accept arrays as input
 // void fun(int  b[],int n){            //how to accept arrays as input
     for(int i=0;i<n;i++){
@@ -106,13 +103,11 @@ int main(){
     //     }
     // printf("%p \n",b);
 
-
     // printarray(b,5);
     // pb=func(8);
     // for(int i=0;i<5;i++){
     //     printf("%d \n",pb[i]);
     // }
-
 
     // printf("%p \n",pb);
     // pb[0]=2;
