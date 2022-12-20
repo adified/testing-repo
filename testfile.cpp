@@ -3,7 +3,6 @@
 #include<iostream>
 #include <array>
 #include <math.h>
-// i wish to show this in demo
 //this is not and edit this is only to test my api
 using namespace std;
 double cube(double num);        //function prototype
@@ -12,6 +11,8 @@ double cube(double num);        //function prototype
         int length;
         int breath;
     };
+// i wish to show this in demo
+// i wish to show this in demo
 
     struct complex{
         int real;
