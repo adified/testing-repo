@@ -3,9 +3,9 @@
 #include<iostream>
 #include <array>
 #include <math.h>
-
-using namespace std; 
-
+// i wish to show this in demo
+//this is not and edit this is only to test my api
+using namespace std;
 double cube(double num);        //function prototype
 
     struct rectangle{
