@@ -4,6 +4,8 @@
 #include <array>
 #include <math.h>
 
+knckvdbvdn
+
 using namespace std; 
 
 double cube(double num);        //function prototype
