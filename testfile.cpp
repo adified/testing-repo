@@ -16,6 +16,15 @@
 // confusion in api thats why this comment
 // confusion in api thats why this comment
 
+
+
+// confusion in api thats why this comment
+// confusion in api thats why this comment
+// confusion in api thats why this comment
+// confusion in api thats why this comment
+// confusion in api thats why this comment
+
+
 using namespace std; 
 
 double cube(double num);        //function prototype
