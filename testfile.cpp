@@ -4,7 +4,16 @@
 #include <array>
 #include <math.h>
 
-knckvdbvdn
+// knckvdbvdn
+// confusion in api thats why this comment
+// confusion in api thats why this comment
+// confusion in api thats why this comment
+// confusion in api thats why this comment
+// confusion in api thats why this comment
+// confusion in api thats why this comment
+// confusion in api thats why this comment
+// confusion in api thats why this comment
+// confusion in api thats why this comment
 
 using namespace std; 
 
